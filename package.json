@@ -9,7 +9,7 @@
         "scroll-to"
     ],
     "dependencies": {
-        "component-tween": "git+https://github.com/stylisted/tween#20fe67aff29b06c1a506b4df7f9d283ef75d4ce3",
+        "component-tween": "git+https://github.com/stylisted/tween#4748e4cfed23571634d89fdd3c030356581a0e81",
         "raf":             "3.3.0"
     },
     "license":      "MIT",
