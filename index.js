@@ -2,7 +2,7 @@
  * Module dependencies.
  */
 
-var Tween = require('tween');
+var Tween = require('component-tween');
 var raf = require('raf');
 
 /**
@@ -48,7 +48,7 @@ function scrollTo(x, y, options) {
   }
 
   animate();
-  
+
   return tween;
 }
 
